@@ -3,7 +3,19 @@ uuid = "321d9ce5-1115-4f63-8a97-4985e0e46a0d"
 authors = ["Juven14s <rdjimadoum20@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Dash = "1b08a953-4be3-4667-9a23-3db579824955"
+DashCoreComponents = "1b08a953-4be3-4667-9a23-9da06441d987"
+DashHtmlComponents = "1b08a953-4be3-4667-9a23-24100242a84a"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
+
 [compat]
+Dash = "1.5.0"
+DashCoreComponents = "2.0.0"
+DashHtmlComponents = "2.0.0"
+Pluto = "0.20.3"
+PlutoUI = "0.7.60"
 julia = "1.11"
 
 [extras]

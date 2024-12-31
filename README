@@ -1,0 +1,6 @@
+
+Pour démarrer le jeu, exécutez les commandes suivantes directement dans le REPL de Julia :
+
+Othello.jeu()
+
+Cela initialisera la grille avec les pions au centre et lancera le jeu.
